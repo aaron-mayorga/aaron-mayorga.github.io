@@ -1,4 +1,15 @@
 
 h1 { text-align: center;
   color: darkslategray;
+  font-family: 'Noto Serif KR', serif;
+}
+
+h2 { text-align: center;
+  color: darkslategray
+font-family: 'Noto Serif KR', serif;
+}
+
+p { text-align: center;
+color: darkslategray
+font-family: 'Open Sans', 'sans-Serif'
 }
